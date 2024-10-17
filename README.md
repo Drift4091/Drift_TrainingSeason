@@ -1,4 +1,4 @@
-Welcome to the 2024** Training Season **Repository
+Welcome to the 2024 ** Training Season ** Repository
 
 In this repository, you will:
 
