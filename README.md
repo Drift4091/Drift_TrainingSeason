@@ -1,4 +1,4 @@
-Welcome to the 2024 ** Training Season ** Repository
+Welcome to the 2024 Training Season Repository
 
 In this repository, you will:
 
@@ -6,8 +6,8 @@ In this repository, you will:
 - Build and program a competitively viable robot for the 2024 FRC game, Crescendo
 - Get hands-on experience with FRC electronics
 
-**Our primary goals for the season include:
-**
+Our primary goals for the season include:
+
 -Programming a tank drive system
 -Developing simple shooting and intake subsystems
 -Implementing basic autonomous tasks
